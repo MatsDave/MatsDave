@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatsDave
-- 👀 I’m interested in working on Java beginner level problems and projects
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on java problems
+- 👀 I’m interested in working on Python, Java, JavaScript beginner level problems and projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python problems
 - 📫 reach me on matsdave22@gmail.com
 
 <!---
