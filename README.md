@@ -1,31 +1,34 @@
-# Hi there 👋, I'm Mats Dave
+Hi there 👋, I'm Meetee Dave
 
-I'm a passionate aspiring AI/ML and Data Science professional with a strong foundation in Python, Machine Learning, and Data Analysis. I enjoy solving complex problems, building projects, and exploring innovative solutions using data.
+AI Data Engineer building cloud-native data platforms and GenAI/agentic systems on AWS and Azure.
 
-## 🌱 Currently Learning
-- Advanced Python and Machine Learning algorithms
-- Big Data tools and techniques
-- Web frameworks like Django for deploying ML models
+I design scalable ETL and medallion-architecture pipelines, and ship production GenAI platforms using LangGraph, RAG, and hybrid search — backed by strong Python and backend engineering. Strong focus on data quality, pipeline reliability, and end-to-end traceability.
 
-## 💻 Skills
-- **Programming & Development:** Python | OOP | Data Structures & Algorithms (Stack, Queue, LinkedList, Sorting, Searching) | JavaScript | Node.js | HTML | CSS | Django  
-- **Data & Analytics:** Machine Learning | Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel | DAX | Oracle SQL  
-- **Tools & Platforms:** Git | VS Code | PyCharm | IntelliJ IDEA | Apache NetBeans | Linux & Git Bash | AWS | Agile & Scrum  
+🚀 Currently
+Leading, end-to-end, an Azure medallion data platform for a Japanese manufacturing client (Nippon Oil Pumps) at Aroha Technologies — automating HQ reporting that used to be a manual Excel process
+Teaching Python, SQL, Databricks, PySpark, Pandas, and applied data engineering on Preply
+🧰 Skills
 
-## 🌟 Technologies I Work With
-- **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **BI & Analytics:** Power BI, Excel, DAX  
-- **Version Control & Dev Tools:** Git, VS Code, IntelliJ, PyCharm, VersionOne Tool  
+Languages: Python, SQL, PySpark, Bash
 
-## 🤝 I’m looking to collaborate on
-- Python and Machine Learning projects  
-- Data Analysis and Visualization tasks  
-- AI/ML model development and deployment  
+Cloud & Data Platforms: AWS (S3, EMR, EC2, RDS), Azure (Blob Storage, Database for MySQL, Data Factory, Key Vault), Databricks, Apache Airflow
 
-## 📫 How to reach me
-- Email: matsdave22@gmail.com  
-- Always open to discussing projects, learning opportunities, or collaborations!  
+Databases & Modeling: Oracle SQL, MySQL, PostgreSQL, Star Schema, Dimensional Modelling, Medallion Architecture, SCD Type 1 & 2, Data Warehousing
 
----
+GenAI & AI/ML: LangGraph, LangChain, RAG, Hybrid Search, Autonomous Agents, Prompt Engineering, Crawl4AI, Qdrant (Vector DB), Scikit-learn
 
-I enjoy combining technical skills with strategic problem-solving to create meaningful solutions and impactful projects. Let's connect and build something amazing! 🚀
+Tools & Visualization: Git, VS Code, Docker, Power BI, SSRS, Nginx
+
+🏗️ Featured Projects
+Enterprise Data Platform & Automated HQ Reporting (Project Lead, current) — End-to-end Bronze/Silver/Gold medallion platform on Azure for a Japanese manufacturing client, replacing manual Excel-based HQ reporting with an automated, auditable pipeline from SAP Business One extracts to finished bilingual deliverables.
+Multi-Hospital Diagnostic Data Integration Platform — PySpark pipeline on AWS EMR consolidating daily diagnostic data from 8 external lab partners across 12+ hospital locations into a centralized Oracle warehouse.
+Company Intelligence Platform (AI Project) — Full-stack AI platform combining an autonomous LangGraph web-scraping agent with a hybrid RAG search engine (Qdrant + BAAI/bge-m3) for conversational company research.
+Marketing Data Integration and Analytics Platform — Unified Google Analytics, Salesforce CRM, and S3 campaign data into a MySQL warehouse for attribution and lead-to-conversion analysis.
+Telecom Financial Clearing and Reporting Platform — SQL-driven settlement reconciliation and Power BI/SSRS reporting for a telecom financial clearing client.
+🤝 Open to collaborating on
+Data engineering pipelines (AWS / Azure / medallion architecture)
+GenAI & agentic workflows (RAG, LangGraph, vector search)
+Data platform and BI/reporting projects
+📫 Reach me
+Email: matsdave22@gmail.com
+LinkedIn: linkedin.com/in/meetee-dave-bb285928b
